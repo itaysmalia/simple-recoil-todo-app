@@ -1,0 +1,33 @@
+@import "../../styles/colors";
+@import "../../styles/fonts";
+.form {
+  width: fit-content;
+  margin:0 auto;
+  .title {
+    font-size: 2vw;
+    margin-bottom: 0.6rem;
+  }
+  .input {
+    min-width: 14rem;
+    color: $text-color;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    border-bottom: $text-color 1px solid;
+    padding: 0 0 0.5rem 0.5rem;
+  }
+  .add {
+    transition: 400ms;
+    background-color: $secondary;
+    color: $text-color;
+    margin-left: 1rem;
+    padding: 0.4rem 0.8rem;
+    border-radius: 1rem;
+    border-style: solid;
+    font-family: $btn-font;
+    cursor: pointer;
+    &:hover {
+      background-color: lighten($color: $secondary, $amount: 10%);
+    }
+  }
+}

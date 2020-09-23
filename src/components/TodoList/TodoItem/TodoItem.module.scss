@@ -1,0 +1,21 @@
+@import "../../../styles/colors";
+.item {
+  width: fit-content;
+  padding: 0.4rem 1rem;
+  display: grid;
+  grid-template-columns: 20rem auto;
+  align-items: center;
+  border-bottom: 1px solid $text-color;
+  .text {
+    &.completed {
+      color: $done-color;
+    }
+  }
+  .toggle {
+    cursor: pointer;
+    width: fit-content;
+    &:hover {
+      opacity: 0.6;
+    }
+  }
+}
