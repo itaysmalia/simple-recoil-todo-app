@@ -1,0 +1,10 @@
+@import "../../styles/colors";
+.nav {
+  padding: 0.4rem 0;
+  background-color: $text-color;
+  color: $primary;
+  border-radius: 3rem;
+  display: grid;
+  place-items: center;
+  box-shadow: 14px 14px 28px #1e282d, -14px -14px 28px #2e3c43;
+}
