@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-recoil-todo-app/static/css/main.5c2bf307.chunk.css",
+    "main.js": "/simple-recoil-todo-app/static/js/main.de2ddab3.chunk.js",
+    "main.js.map": "/simple-recoil-todo-app/static/js/main.de2ddab3.chunk.js.map",
+    "runtime-main.js": "/simple-recoil-todo-app/static/js/runtime-main.6358d7d2.js",
+    "runtime-main.js.map": "/simple-recoil-todo-app/static/js/runtime-main.6358d7d2.js.map",
+    "static/js/2.c51a773e.chunk.js": "/simple-recoil-todo-app/static/js/2.c51a773e.chunk.js",
+    "static/js/2.c51a773e.chunk.js.map": "/simple-recoil-todo-app/static/js/2.c51a773e.chunk.js.map",
+    "index.html": "/simple-recoil-todo-app/index.html",
+    "precache-manifest.d360feb287332032752be7f7c8ba6fbc.js": "/simple-recoil-todo-app/precache-manifest.d360feb287332032752be7f7c8ba6fbc.js",
+    "service-worker.js": "/simple-recoil-todo-app/service-worker.js",
+    "static/css/main.5c2bf307.chunk.css.map": "/simple-recoil-todo-app/static/css/main.5c2bf307.chunk.css.map",
+    "static/js/2.c51a773e.chunk.js.LICENSE.txt": "/simple-recoil-todo-app/static/js/2.c51a773e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6358d7d2.js",
+    "static/js/2.c51a773e.chunk.js",
+    "static/css/main.5c2bf307.chunk.css",
+    "static/js/main.de2ddab3.chunk.js"
+  ]
+}
